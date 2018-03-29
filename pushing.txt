@@ -1,4 +1,4 @@
 pushing a file
 fetching & merge a file
 pulling example
-writing something to make conflict
+merge conflict11writing something to make conflict
